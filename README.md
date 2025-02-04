@@ -1,4 +1,11 @@
 # Restaurant-Revenue-Prediction
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=flat&logo=python)  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange.svg?style=flat&logo=pandas)  
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue.svg?style=flat&logo=numpy)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-yellow.svg?style=flat&logo=scikit-learn)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-green.svg?style=flat&logo=matplotlib)  
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Data%20Visualization-teal.svg?style=flat&logo=seaborn)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=flat&logo=jupyter)  
 
 Restaurants generate revenue through multiple factors, and understanding the key drivers helps in optimizing pricing strategies, promotions, and marketing campaigns. This project explores the impact of different variables on revenue prediction and evaluates the performance of machine learning models for accurate forecasting.
 
