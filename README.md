@@ -1,4 +1,6 @@
 # Restaurant-Revenue-Prediction
+Machine Learning project predicting restaurant revenue using regression models, EDA, and feature selection. Implemented Random Forest and Gradient Boosting for optimization. <br>
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=flat&logo=python)  
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange.svg?style=flat&logo=pandas)  
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue.svg?style=flat&logo=numpy)  
